@@ -1,7 +1,8 @@
-# Project-3-Walmart
-Walmart Data sales 
+# Project-3-Walmart Sales
 
-# 🛒 Walmart Sales Forecast
+
+
+# Walmart Sales Forecast
 
 This repository contains analysis and modeling based on the [Walmart Sales Forecast](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast) dataset. The goal is to forecast weekly sales for each store and department using historical data enriched with promotional, economic, and seasonal features.
 
